@@ -1,4 +1,4 @@
-## Chapter 4: Building a Social Website
+# Chapter 4: Building a Social Website
 ## Key learning components:
 * Creating an account, log in, log out
 * Editing and customizing profiles
